@@ -13,11 +13,9 @@ This page only holds the app to install. It's for friends testing it: tell me wh
 2. **Install Downloader:** search the Play Store for **Downloader** (by AFTVnews) and install it.
 3. **Let Downloader install apps:** *Settings → Apps → Security & restrictions → Unknown sources* →
    turn on **Downloader**. (On some TVs: *Settings → System → Developer options → Install unknown apps*.)
-4. **Get NovaStream:** open Downloader, type this address in its box, and choose **Go**, then **Install**:
-
-   ```
-   github.com/grivera82/novastream-tv/releases/latest/download/NovaStream.apk
-   ```
+4. **Get NovaStream:** open Downloader, type the code **9760489** in its box, choose **Go**, then **Install**.
+   (Or type the whole address: `github.com/grivera82/novastream-tv/releases/latest/download/NovaStream.apk`.)
+   The code always gets the newest version.
 
 5. Open **NovaStream** from *Your apps*.
 
